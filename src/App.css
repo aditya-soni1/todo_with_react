@@ -1,0 +1,16 @@
+body
+{
+  background: linear-gradient(180deg,#ca74f9,#fff);
+  background-attachment: fixed;
+  margin: 10px;
+  padding: 10px;
+}
+.header
+{
+  text-align: center;
+}
+#praentDiv
+{
+  margin: 10px;
+  padding: 10px;
+}
